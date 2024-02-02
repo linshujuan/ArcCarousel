@@ -1,6 +1,6 @@
 # An example of an arc carousel
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![](example.gif)
 
 ## Setup
 
